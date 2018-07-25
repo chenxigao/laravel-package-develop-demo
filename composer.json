@@ -1,0 +1,21 @@
+{
+    "name": "laravel/hasher",
+    "description": "MD5 support in laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "chenxigao",
+            "email": "819603673@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+
+        "psr-4": {
+            "App\\": "app/",
+            "Laravel\\Hasher\\": "src/"
+        }
+    },
+
+}
